@@ -1,0 +1,644 @@
+canonical_identifier: bkk:krp/KR6i0294/T/v1
+canonical_location: https://kanripo.org/bkk/KR6i0294/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 菩薩瓔珞經
+  identifiers:
+    krp: KR6i0294
+    cbeta: T16n0656
+    cbeta_old_id: T16n0656
+    authorityid: CA0002467
+    json_key: T0656
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T16/T16n0656.xml
+    old_id: T16n0656
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0294_000-T.yaml, hash: 'sha256:92bfda009b8c9eb7cfcb4e84b6393f19f89088055624274ac762a141f4993736'}
+  - {seq: 1, filename: KR6i0294_001-T.yaml, hash: 'sha256:e07af481371a73c48dad5db9d17c1deef09bd59584a445fdfe9505e5915b224c'}
+  - {seq: 2, filename: KR6i0294_002-T.yaml, hash: 'sha256:818ec4fe5041a20c7f8ca38e99cec664650a0bb66f4e342c4139410b2aa1c30e'}
+  - {seq: 3, filename: KR6i0294_003-T.yaml, hash: 'sha256:5cb8600be6563ffec216679429d87574e0e83642915f08a3f4e8df1ea2dbab59'}
+  - {seq: 4, filename: KR6i0294_004-T.yaml, hash: 'sha256:db3f7df7df6002cec13d9cab35a7f920ec25abd6ca1b840f8c0fbca025c9b8c6'}
+  - {seq: 5, filename: KR6i0294_005-T.yaml, hash: 'sha256:204b538f8e83c45c912c889d3eb17e571f8b90c0cbf4c3bd6cf14e119b1a1ec1'}
+  - {seq: 6, filename: KR6i0294_006-T.yaml, hash: 'sha256:2f52664ed542b7702d73a39e98434ae73fc7705fe072517529906589931a143f'}
+  - {seq: 7, filename: KR6i0294_007-T.yaml, hash: 'sha256:004f44cc2017fbcd1803faee35a43d8597a104053ed4866c4f43115d0bfce47c'}
+  - {seq: 8, filename: KR6i0294_008-T.yaml, hash: 'sha256:5c0b9ea7c2764bed6e985ec582d6efc7effe1b03b571f7d26da845b74ab29348'}
+  - {seq: 9, filename: KR6i0294_009-T.yaml, hash: 'sha256:19cc5b2165c3a5462782c93f856e10e97f9c772847f80eb88712625eed416082'}
+  - {seq: 10, filename: KR6i0294_010-T.yaml, hash: 'sha256:bec6d8fb30314aee4bd1a3b7f21db4e499b47b6c7f1d50763129738ef8ecb389'}
+  - {seq: 11, filename: KR6i0294_011-T.yaml, hash: 'sha256:a84f39b8c7164e37a2c6f56e7c70e5f5832f4c142852cd21c51b5170904911f0'}
+  - {seq: 12, filename: KR6i0294_012-T.yaml, hash: 'sha256:b1fabb94e3d9e38ccf8731cba2c6a690cd87747795faf891a4c8849a77bc3190'}
+  - {seq: 13, filename: KR6i0294_013-T.yaml, hash: 'sha256:9806dd8f9bdaad9bc8c01d0f2298550dd044e829e7798f08385bfb519ef62e30'}
+  - {seq: 14, filename: KR6i0294_014-T.yaml, hash: 'sha256:65cae489098b5b73c4f6746f01d75e10d016d9f53b4157a625f9605f1a227c48'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6i0294_000-T.markers.yaml, hash: 'sha256:032d0f1e1320e1ef9e3653c6ad23bb8f2042f08ef99ec0b942f4f4b1d79925fe'}
+  - {seq: 1, role: markers, filename: assets/KR6i0294_001-T.markers.yaml, hash: 'sha256:4e8a803d0f062be38ef051253305f13eda9d063fdb09225a8f3950b123c15eee'}
+  - {seq: 2, role: markers, filename: assets/KR6i0294_002-T.markers.yaml, hash: 'sha256:b6642db5019491d250e7478e34bcd8f86433c2fc8a8edccc6e3e75de551c4cab'}
+  - {seq: 3, role: markers, filename: assets/KR6i0294_003-T.markers.yaml, hash: 'sha256:d5a2ceaf0f8a42a667d976475090684b091c2174b73bbad6617b3ff6a6da4e47'}
+  - {seq: 4, role: markers, filename: assets/KR6i0294_004-T.markers.yaml, hash: 'sha256:bcd400ed820f5222ed997a8c7f571798c8a55fce53ae162112258695f3fdc096'}
+  - {seq: 5, role: markers, filename: assets/KR6i0294_005-T.markers.yaml, hash: 'sha256:fc767d88ef061e3c50d5bf4aa3f53cf5786fff1e4bde9b2db92c8465e16b9b58'}
+  - {seq: 6, role: markers, filename: assets/KR6i0294_006-T.markers.yaml, hash: 'sha256:841e6ceb25a8b5b7398e40465bcb43cdc0c61784f2379943eb965505c3ec58eb'}
+  - {seq: 7, role: markers, filename: assets/KR6i0294_007-T.markers.yaml, hash: 'sha256:0b0cdcccb173310981393388014cf14f1ae60718a3267887cf8da5e94ff64e64'}
+  - {seq: 8, role: markers, filename: assets/KR6i0294_008-T.markers.yaml, hash: 'sha256:17c1bd7bf86a960b0a9ec3fb71fdb5fdb113600ca0130b5c500ef05c818688e3'}
+  - {seq: 9, role: markers, filename: assets/KR6i0294_009-T.markers.yaml, hash: 'sha256:abd20796a5f82045f568fdfdd5102ce1b64f86f88e845a9e80b5eeac5bae5f28'}
+  - {seq: 10, role: markers, filename: assets/KR6i0294_010-T.markers.yaml, hash: 'sha256:463040a9341440fe0eab46d7cede3df2f14cba839b636f46e4850671b37e435a'}
+  - {seq: 11, role: markers, filename: assets/KR6i0294_011-T.markers.yaml, hash: 'sha256:f84d85318df969d8924eb0fe61c44ad36d443b496c4b22f85abcdf55df2c03a5'}
+  - {seq: 12, role: markers, filename: assets/KR6i0294_012-T.markers.yaml, hash: 'sha256:2b2706387a974585b79c41090d6d8ae2175bfd11f6b3e22b77710e0c1b4bc52e'}
+  - {seq: 13, role: markers, filename: assets/KR6i0294_013-T.markers.yaml, hash: 'sha256:94d8e73eed943ee6dc95de7063bcc6ae429c9c7076d0499f2898ee2f67a990ac'}
+  - {seq: 14, role: markers, filename: assets/KR6i0294_014-T.markers.yaml, hash: 'sha256:cd3e91734c681a38296660bccbf2534f0b8b0b3533035e7d9dc4940d2a1c57bf'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6i0294_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 11856
+  label: 菩薩瓔珞經卷第一一名現在報
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0294_T_001-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 1 普稱品(一)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0294_T_001-mulu-2
+    span:
+    - body
+    - 4225
+    - 4225
+  label: 2 識定品(一)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0294_T_001-mulu-3
+    span:
+    - body
+    - 6406
+    - 6406
+  label: 3 莊嚴道樹品(一)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0294_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 14803
+  label: 菩薩瓔珞經卷第二一名現在報
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0294_T_002-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 4 龍王浴太子品(二)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0294_T_002-mulu-2
+    span:
+    - body
+    - 6729
+    - 6729
+  label: 5 法門品(二)
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0294_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 14322
+  label: 菩薩瓔珞經卷第三一名現在報
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0294_T_003-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 6 識界品(三)
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0294_T_003-mulu-2
+    span:
+    - body
+    - 7833
+    - 7833
+  label: 7 諸佛勸助品(三)
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0294_T_003-mulu-3
+    span:
+    - body
+    - 11931
+    - 11931
+  label: 8 如來品(三)
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6i0294_T_004-juan-start
+    span:
+    - body
+    - 0
+    - 10966
+  label: 菩薩瓔珞經卷第四一名現在報
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6i0294_T_004-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 9 音響品(四)
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6i0294_T_004-mulu-2
+    span:
+    - body
+    - 5671
+    - 5671
+  label: 10 因緣品(四)
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6i0294_T_004-mulu-3
+    span:
+    - body
+    - 7415
+    - 7415
+  label: 11 心品(四)
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6i0294_T_004-mulu-4
+    span:
+    - body
+    - 8146
+    - 8146
+  label: 12 四聖諦品(四)
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6i0294_T_004-mulu-5
+    span:
+    - body
+    - 8970
+    - 8970
+  label: 13 成道品(四)
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6i0294_T_005-juan-start
+    span:
+    - body
+    - 0
+    - 11272
+  label: 菩薩瓔珞經卷第五一名現在報
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6i0294_T_005-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 14 生佛品(五)
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6i0294_T_005-mulu-2
+    span:
+    - body
+    - 1191
+    - 1191
+  label: 15 本末品(五)
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6i0294_T_005-mulu-3
+    span:
+    - body
+    - 2297
+    - 2297
+  label: 16 非有識非無識品(五)
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6i0294_T_005-mulu-4
+    span:
+    - body
+    - 4214
+    - 4214
+  label: 17 無量品(五)
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6i0294_T_006-juan-start
+    span:
+    - body
+    - 0
+    - 13236
+  label: 菩薩瓔珞經卷第六一名現在報
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6i0294_T_006-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 18 無量逕品(六)
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6i0294_T_006-mulu-2
+    span:
+    - body
+    - 6525
+    - 6525
+  label: 19 隨行品(六-七)
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6i0294_T_007-juan-start
+    span:
+    - body
+    - 0
+    - 10337
+  label: 菩薩瓔珞經卷第七一名現在報
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6i0294_T_007-mulu-1
+    span:
+    - body
+    - 6240
+    - 6240
+  label: 20 光明品(七)
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6i0294_T_007-mulu-2
+    span:
+    - body
+    - 8360
+    - 8360
+  label: 21 無想品(八)
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6i0294_T_008-juan-start
+    span:
+    - body
+    - 0
+    - 10480
+  label: 菩薩瓔珞經卷第八一名現在報
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6i0294_T_008-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 22 無識品(八)
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6i0294_T_008-mulu-2
+    span:
+    - body
+    - 3465
+    - 3465
+  label: 23 受迦葉勸行品(八)
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6i0294_T_008-mulu-3
+    span:
+    - body
+    - 4817
+    - 4817
+  label: 24 有行無行品(八)
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6i0294_T_009-juan-start
+    span:
+    - body
+    - 0
+    - 10386
+  label: 菩薩瓔珞經卷第九一名現在報
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6i0294_T_009-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 25 有受品(九)
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6i0294_T_009-mulu-2
+    span:
+    - body
+    - 579
+    - 579
+  label: 26 無著品(九)
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6i0294_T_009-mulu-3
+    span:
+    - body
+    - 5332
+    - 5332
+  label: 27 淨智除垢品(九)
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6i0294_T_009-mulu-4
+    span:
+    - body
+    - 8316
+    - 8316
+  label: 28 無斷品(九)
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6i0294_T_010-juan-start
+    span:
+    - body
+    - 0
+    - 10047
+  label: 菩薩瓔珞經卷第十一名現在報
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6i0294_T_010-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 29 賢聖集品(一〇)
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6i0294_T_010-mulu-2
+    span:
+    - body
+    - 4599
+    - 4599
+  label: 30 三道三乘品(一〇)
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6i0294_T_011-juan-start
+    span:
+    - body
+    - 0
+    - 9407
+  label: 菩薩瓔珞經卷第十一一名現在報
+  type: juan
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6i0294_T_011-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 31 供養舍利品(一一)
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6i0294_T_011-mulu-2
+    span:
+    - body
+    - 3483
+    - 3483
+  label: 32 譬喻品(一一)
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6i0294_T_011-mulu-3
+    span:
+    - body
+    - 5025
+    - 5025
+  label: 33 三世法相品(一一)
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6i0294_T_012-juan-start
+    span:
+    - body
+    - 0
+    - 8039
+  label: 菩薩瓔珞經卷第十二一名現在報
+  type: juan
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6i0294_T_012-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 34 清淨品(一二)
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6i0294_T_012-mulu-2
+    span:
+    - body
+    - 3940
+    - 3940
+  label: 35 釋提桓因問品(一二)
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6i0294_T_012-mulu-3
+    span:
+    - body
+    - 6148
+    - 6148
+  label: 36 本行品(一二)
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6i0294_T_013-juan-start
+    span:
+    - body
+    - 0
+    - 11403
+  label: 菩薩瓔珞經卷第十三一名現在報
+  type: juan
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6i0294_T_013-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 37 聞法品(一三)
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6i0294_T_013-mulu-2
+    span:
+    - body
+    - 682
+    - 682
+  label: 38 淨居天品(一三)
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6i0294_T_014-juan-start
+    span:
+    - body
+    - 0
+    - 13393
+  label: 菩薩瓔珞經卷第十四一名現在報
+  type: juan
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6i0294_T_014-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 39 十方法界品(一四)
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6i0294_T_014-mulu-2
+    span:
+    - body
+    - 4104
+    - 4104
+  label: 40 十智品(一四)
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6i0294_T_014-mulu-3
+    span:
+    - body
+    - 5016
+    - 5016
+  label: 41 應時品(一四)
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6i0294_T_014-mulu-4
+    span:
+    - body
+    - 5932
+    - 5932
+  label: 42 十不思議品(一四)
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6i0294_T_014-mulu-5
+    span:
+    - body
+    - 6850
+    - 6850
+  label: 43 無我品(一四)
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6i0294_T_014-mulu-6
+    span:
+    - body
+    - 7804
+    - 7804
+  label: 44 等乘品(一四)
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6i0294_T_014-mulu-7
+    span:
+    - body
+    - 9721
+    - 9721
+  label: 45 三界品(一四)
+  type: mulu
+  level: 1
+hash: sha256:f2585fedccd13afa81ae5d21c2ea2887112417401cf0dcad95063819aeceac24
